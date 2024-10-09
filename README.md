@@ -9,3 +9,7 @@ Se estableció un tratado en el cual se disponía que los visigodos se asentaran
 1. Época
 2. Arquitectura
 3. Obras más significativas
+
+## Referencia
+
+[National Geographic España](https://historia.nationalgeographic.com.es/temas/visigodos)
